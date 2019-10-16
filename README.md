@@ -22,7 +22,7 @@ Language: JAVA
 
 ​    
 
-* 12421 - [타겟넘버](java-project/src/main/java/Baekjoon/proDFS1.java)
+* 12421 - [타겟넘버](java-project/src/main/java/proDFS1.java)
 * 1018 - [체스판 다시 칠하기](src/main/java/Baekjoon/problem1018.java)
 * 1026 - [보물](src/main/java/Baekjoon/problem1026.java)
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
