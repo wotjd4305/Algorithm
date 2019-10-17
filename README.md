@@ -35,6 +35,8 @@ Language: JAVA
 * 12244 - [체육복,Greedy](java-project/src/main/java/proGreedy1.java)
 * 43237 - [예산, Binary](java-project/src/main/java/proBinary1.java)
 * 43238 - [입국심사, Binary]java-project/src/main/java/proBinary2.java)
+* 49189 - [가장 먼 노드, BFS(Graph)](java-project/src/main/java/proGraph1.java)
+
 
 </details>
 
