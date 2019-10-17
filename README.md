@@ -34,6 +34,7 @@ Language: JAVA
 * 42839 - [소수찾기,BPS](java-project/src/main/java/proBPSearch1.java)
 * 12244 - [체육복,Greedy](java-project/src/main/java/proGreedy1.java)
 * 43237 - [예산, Binary](java-project/src/main/java/proBinary1.java)
+* 43238 - [입국심사, Binary]java-project/src/main/java/proBinary2.java)
 
 </details>
 
