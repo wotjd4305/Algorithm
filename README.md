@@ -33,7 +33,7 @@ Language: JAVA
 * 43162 - [네트워크,DFS](java-project/src/main/java/proDFS2.java)
 * 42839 - [소수찾기,BPS](java-project/src/main/java/proBPSearch1.java)
 * 12244 - [체육복,Greedy](java-project/src/main/java/proGreedy1.java)
-
+* 43237 - [예산, Binary](java-project/src/main/java/proBinary1.java)
 
 </details>
 
