@@ -37,6 +37,7 @@ Language: JAVA
 * 43238 - [입국심사, Binary](java-project/src/main/java/proBinary2.java)
 * 49189 - [가장 먼 노드, BFS(Graph)](java-project/src/main/java/proGraph1.java)
 * 43104 - [타일 장식물, DP](java-project/src/main/java/proDP1.java)
+* 43105 - [정수 삼각형, DP](java-project/src/main/java/proDP2.java)
 
 </details>
 
