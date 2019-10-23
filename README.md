@@ -20,7 +20,7 @@ Language: JAVA
 <details>
     <summary>백준</summary>
 
-​    
+​* 1158 - [조세퍼드, 순열](java-project/src/main/java/bac1158.java)
 
 
 
@@ -38,7 +38,7 @@ Language: JAVA
 * 49189 - [가장 먼 노드, BFS(Graph)](java-project/src/main/java/proGraph1.java)
 * 43104 - [타일 장식물, DP](java-project/src/main/java/proDP1.java)
 * 43105 - [정수 삼각형, DP](java-project/src/main/java/proDP2.java)
-
+* 42898 - [등굣길, DP](java-project/src/main/java/proDP3.java)
 </details>
 
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b6e1cdf-943f-454b-b89f-1d3af4722687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/proDP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bac1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proDP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,32 +55,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proGraph1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/proDP2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="1121">
+              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="64" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proDP1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/proDP3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-              <folding>
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proDP2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac1158.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <state relative-caret-position="504">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -177,6 +175,8 @@
         <option value="$PROJECT_DIR$/src/main/java/proGraph1.java" />
         <option value="$PROJECT_DIR$/src/main/java/proDP1.java" />
         <option value="$PROJECT_DIR$/src/main/java/proDP2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/proDP3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bac1158.java" />
       </list>
     </option>
   </component>
@@ -187,8 +187,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="803" />
-    <option name="y" value="9" />
+    <option name="x" value="575" />
+    <option name="y" value="40" />
     <option name="width" value="1095" />
     <option name="height" value="1047" />
   </component>
@@ -234,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571404332951" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571850614950" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -263,16 +263,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.proDP2">
-    <configuration name="proBFS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proBFS2" />
-      <module name="com.algo.java-project.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="proBinary1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proBinary1" />
+  <component name="RunManager" selected="Application.bac1158">
+    <configuration name="bac1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bac1158" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -292,6 +285,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="proDP3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proDP3" />
+      <module name="com.algo.java-project.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="proGraph1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="proGraph1" />
       <module name="com.algo.java-project.main" />
@@ -301,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bac1158" />
+        <item itemvalue="Application.proDP3" />
         <item itemvalue="Application.proDP2" />
         <item itemvalue="Application.proDP1" />
         <item itemvalue="Application.proGraph1" />
-        <item itemvalue="Application.proBinary1" />
-        <item itemvalue="Application.proBFS2" />
       </list>
     </recent_temporary>
   </component>
@@ -323,18 +323,20 @@
       <workItem from="1571202675545" duration="27579000" />
       <workItem from="1571303119784" duration="1523000" />
       <workItem from="1571316686606" duration="10629000" />
-      <workItem from="1571387886201" duration="4378000" />
+      <workItem from="1571387886201" duration="5013000" />
+      <workItem from="1571472531506" duration="6232000" />
+      <workItem from="1571834353518" duration="7099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57291000" />
+    <option name="totallyTimeSpent" value="71257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="803" y="9" width="1095" height="1047" extended-state="0" />
+    <frame x="575" y="40" width="1095" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21835749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22608696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -343,16 +345,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49371982" visible="true" weight="0.30996713" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.30996713" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995169" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.329849" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5062802" side_tool="true" visible="true" weight="0.30996713" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49468598" weight="0.3253012" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51111114" side_tool="true" visible="true" weight="0.30996713" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49275362" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -361,7 +363,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32932165" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.046376813" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.044444446" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Database" order="9" weight="0.32932165" />
@@ -426,6 +428,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/proGraph1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/proDP1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/proDP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/proBinary1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -471,28 +494,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proGraph1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/proDP3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proDP1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac1158.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding>
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/proDP2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state relative-caret-position="504">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
         </state>
       </provider>
     </entry>
