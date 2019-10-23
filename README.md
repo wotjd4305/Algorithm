@@ -21,7 +21,7 @@ Language: JAVA
     <summary>백준</summary>
 
 ​* 1158 - [조세퍼드, 순열](java-project/src/main/java/bac1158.java)
-
+* 2740 - [행렬곱셈, 규칙](java-project/src/main/java/bac2740.java)
 
 
 </details>
