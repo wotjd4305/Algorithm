@@ -22,6 +22,8 @@ Language: JAVA
 
 ​* 1158 - [조세퍼드, 순열](java-project/src/main/java/bac1158.java)
 * 2740 - [행렬곱셈, 규칙](java-project/src/main/java/bac2740.java)
+* 9012 - [괄호, 스택](java-project/src/main/java/bac9012.java)
+* 9663 - [N-Queen, DFS](java-project/src/main/java/bac9663.java)
 
 
 </details>

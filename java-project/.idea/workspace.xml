@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b6e1cdf-943f-454b-b89f-1d3af4722687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bac2740.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bac9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bac9663.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/bac2740.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/bac2740.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -82,34 +85,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bac2740.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+            <state relative-caret-position="171">
+              <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proBinary2.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac9012.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac9663.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proGreedy2.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="201">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
             </state>
           </provider>
         </entry>
@@ -179,6 +186,8 @@
         <option value="$PROJECT_DIR$/src/main/java/proDP3.java" />
         <option value="$PROJECT_DIR$/src/main/java/bac1158.java" />
         <option value="$PROJECT_DIR$/src/main/java/bac2740.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bac9012.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bac9663.java" />
       </list>
     </option>
   </component>
@@ -236,7 +245,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571853143773" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571909746301" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.bac2740">
+  <component name="RunManager" selected="Application.bac9663">
     <configuration name="bac1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bac1158" />
       <module name="com.algo.java-project.main" />
@@ -280,15 +289,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proDP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proDP1" />
+    <configuration name="bac9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bac9012" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proDP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proDP2" />
+    <configuration name="bac9663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bac9663" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -303,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bac9663" />
+        <item itemvalue="Application.bac9012" />
         <item itemvalue="Application.bac2740" />
         <item itemvalue="Application.bac1158" />
         <item itemvalue="Application.proDP3" />
-        <item itemvalue="Application.proDP2" />
-        <item itemvalue="Application.proDP1" />
       </list>
     </recent_temporary>
   </component>
@@ -327,15 +336,16 @@
       <workItem from="1571316686606" duration="10629000" />
       <workItem from="1571387886201" duration="5013000" />
       <workItem from="1571472531506" duration="6232000" />
-      <workItem from="1571834353518" duration="9644000" />
+      <workItem from="1571834353518" duration="14452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73802000" />
+    <option name="totallyTimeSpent" value="78610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="575" y="40" width="1095" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22608696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,7 +356,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4888889" visible="true" weight="0.30996713" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4869565" visible="true" weight="0.30996713" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995169" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,8 +364,8 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.329849" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51111114" side_tool="true" visible="true" weight="0.30996713" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49275362" weight="0.3253012" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51304346" side_tool="true" visible="true" weight="0.30996713" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49082124" weight="0.3253012" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -511,8 +521,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bac2740.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        <state relative-caret-position="171">
+          <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac9012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac9663.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
         </state>
       </provider>
     </entry>
