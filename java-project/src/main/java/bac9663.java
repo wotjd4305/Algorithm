@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -22,7 +23,6 @@ public class bac9663 {
         {
             if(iArr[row] == iArr[i] || row-i == Math.abs(iArr[row] - iArr[i]))
                 return false;
-
         }
         return true;
     }

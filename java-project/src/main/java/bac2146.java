@@ -1,7 +1,4 @@
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
 
 public class bac2146 {
     static int N;
@@ -20,6 +17,7 @@ public class bac2146 {
         Scanner sc = new Scanner(System.in);
         boolean visit_copy[][] = new boolean[N][N];
 
+ 
         //입력
         N = sc.nextInt();
         Array = new int[N][N];

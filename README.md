@@ -48,6 +48,9 @@ Language: JAVA
 <details>
     <summary> SWExpertAcademy</summary>
 
+* 5642 - [합,DP](java-project/src/main/java/swe5642.java)
+* 5603 - [건초더미,규칙](java-project/src/main/java/swe5603.java)
+
 ​    
 
   </details>
