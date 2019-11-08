@@ -50,6 +50,12 @@ Language: JAVA
 
 * 5642 - [합,DP](java-project/src/main/java/swe5642.java)
 * 5603 - [건초더미,규칙](java-project/src/main/java/swe5603.java)
+* 1213 - [String,문자열 split](java-project/src/main/java/swe1213.java)
+* 1215 - [회문1,문자열](java-project/src/main/java/swe1215.java)
+* 1216 - [회문2,문자열](java-project/src/main/java/swe1216.java)
+* 1217 - [제곱,Math함수](java-project/src/main/java/swe1217.java)
+* 1220 - [Magenetic,규칙](java-project/src/main/java/swe1220.java)
+
 
 ​    
 
