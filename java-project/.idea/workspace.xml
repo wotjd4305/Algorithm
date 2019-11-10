@@ -68,15 +68,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proDP3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/proGraph1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-750">
@@ -128,11 +119,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/swe1244.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="263">
+              <caret line="46" lean-forward="true" selection-end-line="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swe1289.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -196,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/main/java/swe1221.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1234.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1244.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swe1289.java" />
       </list>
     </option>
   </component>
@@ -253,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573347480166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573375503197" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -282,14 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.swe1244">
-    <configuration name="swe1217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe1217" />
-      <module name="com.algo.java-project.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.swe1289">
     <configuration name="swe1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swe1220" />
       <module name="com.algo.java-project.main" />
@@ -318,13 +312,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="swe1289" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swe1289" />
+      <module name="com.algo.java-project.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.swe1289" />
         <item itemvalue="Application.swe1244" />
         <item itemvalue="Application.swe1234" />
         <item itemvalue="Application.swe1221" />
         <item itemvalue="Application.swe1220" />
-        <item itemvalue="Application.swe1217" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +349,12 @@
       <workItem from="1573108604721" duration="10154000" />
       <workItem from="1573131855374" duration="48000" />
       <workItem from="1573201864896" duration="2987000" />
-      <workItem from="1573276566784" duration="10449000" />
+      <workItem from="1573276566784" duration="11265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109380000" />
+    <option name="totallyTimeSpent" value="110196000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,7 +367,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="4" width="1095" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24444444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -710,8 +710,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/swe1244.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="263">
+          <caret line="46" lean-forward="true" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe1289.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
