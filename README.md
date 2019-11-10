@@ -57,6 +57,7 @@ Language: JAVA
 * 1220 - [Magenetic,규칙](java-project/src/main/java/swe1220.java)
 * 1221 - [GNS,HashMap](java-project/src/main/java/swe1221.java)
 * 1234 - [비밀번호,스택](java-project/src/main/java/swe1234.java)
+* 1244 - [최대상금,DFS+최적화](java-project/src/main/java/swe1244.java)
 
 
 ​    

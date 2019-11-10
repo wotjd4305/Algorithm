@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b6e1cdf-943f-454b-b89f-1d3af4722687" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b6e1cdf-943f-454b-b89f-1d3af4722687" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -52,15 +50,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proDP1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-218">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="542">
@@ -74,15 +63,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="201">
               <caret line="354" selection-start-line="354" selection-end-line="354" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/proDP2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="64" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -139,11 +119,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/swe1234.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="333">
+              <caret line="34" column="17" lean-forward="true" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swe1244.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="135" selection-start-line="135" selection-end-line="135" />
             </state>
           </provider>
         </entry>
@@ -197,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/main/java/swe1220.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1221.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1234.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swe1244.java" />
       </list>
     </option>
   </component>
@@ -254,7 +253,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573342488491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573347480166" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -283,14 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.swe1234">
-    <configuration name="swe1215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe1215" />
-      <module name="com.algo.java-project.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.swe1244">
     <configuration name="swe1217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swe1217" />
       <module name="com.algo.java-project.main" />
@@ -319,13 +311,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="swe1244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swe1244" />
+      <module name="com.algo.java-project.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.swe1244" />
         <item itemvalue="Application.swe1234" />
         <item itemvalue="Application.swe1221" />
         <item itemvalue="Application.swe1220" />
         <item itemvalue="Application.swe1217" />
-        <item itemvalue="Application.swe1215" />
       </list>
     </recent_temporary>
   </component>
@@ -349,12 +348,12 @@
       <workItem from="1573108604721" duration="10154000" />
       <workItem from="1573131855374" duration="48000" />
       <workItem from="1573201864896" duration="2987000" />
-      <workItem from="1573276566784" duration="5795000" />
+      <workItem from="1573276566784" duration="10449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104726000" />
+    <option name="totallyTimeSpent" value="109380000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,7 +395,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32932165" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.028985508" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.030917874" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Database" order="9" weight="0.32932165" />
@@ -697,8 +696,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/swe1234.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="333">
+          <caret line="34" column="17" lean-forward="true" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe1244.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
