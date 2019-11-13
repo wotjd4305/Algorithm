@@ -41,6 +41,11 @@ Language: JAVA
 * 43104 - [타일 장식물, DP](java-project/src/main/java/proDP1.java)
 * 43105 - [정수 삼각형, DP](java-project/src/main/java/proDP2.java)
 * 42898 - [등굣길, DP](java-project/src/main/java/proDP3.java)
+* skill2 - [아스키코드, split](java-project/src/main/java/proString1.java)
+* skill3 - [회사원 누적, 우선순위큐](java-project/src/main/java/proPriorityQueue.java)
+* skill3 - [도시, DP](java-project/src/main/java/proCity.java)
+
+
 </details>
 
 
