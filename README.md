@@ -64,7 +64,8 @@ Language: JAVA
 * 1234 - [비밀번호,스택](java-project/src/main/java/swe1234.java)
 * 1244 - [최대상금,DFS+최적화](java-project/src/main/java/swe1244.java)
 * 1289 - [메모리복구,규칙](java-project/src/main/java/swe1289.java)
-
+* 1491 - [원재의 벽꾸미기, Long형/규칙](java-project/src/main/java/swe1491.java)
+* 1493 - [새로운 수 연산, 클래스/규칙(시간초과)](java-project/src/main/java/swe1493.java)
 
 ​    
 
