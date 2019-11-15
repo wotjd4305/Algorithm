@@ -66,7 +66,7 @@ Language: JAVA
 * 1289 - [메모리복구,규칙](java-project/src/main/java/swe1289.java)
 * 1491 - [원재의 벽꾸미기, Long형/규칙](java-project/src/main/java/swe1491.java)
 * 1493 - [새로운 수 연산, 클래스/규칙(시간초과)](java-project/src/main/java/swe1493.java)
-
+* 1860 - [진기의 최고급 붕어빵, 해쉬/규칙] (java-project/src/main/java/swe1860.java)
 ​    
 
   </details>
