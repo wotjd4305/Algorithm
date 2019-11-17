@@ -68,6 +68,7 @@ Language: JAVA
 * 1493 - [새로운 수 연산, 클래스/규칙(시간초과)](java-project/src/main/java/swe1493.java)
 * 1860 - [진기의 최고급 붕어빵, 해쉬/규칙](java-project/src/main/java/swe1860.java)
 ​* 2806 - [N-Queen, DFS/1중배열을 2중처럼](java-project/src/main/java/swe2806.java)
-​    
+* 2805 - [농작물, 규칙](java-project/src/main/java/swe2805.java)
+
 
   </details>
