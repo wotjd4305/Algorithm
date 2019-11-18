@@ -67,8 +67,12 @@ Language: JAVA
 * 1491 - [원재의 벽꾸미기, Long형/규칙](java-project/src/main/java/swe1491.java)
 * 1493 - [새로운 수 연산, 클래스/규칙(시간초과)](java-project/src/main/java/swe1493.java)
 * 1860 - [진기의 최고급 붕어빵, 해쉬/규칙](java-project/src/main/java/swe1860.java)
-​* 2806 - [N-Queen, DFS/1중배열을 2중처럼](java-project/src/main/java/swe2806.java)
+​
+* 2806 - [N-Queen, DFS/1중배열을 2중처럼](java-project/src/main/java/swe2806.java)
 * 2805 - [농작물, 규칙](java-project/src/main/java/swe2805.java)
+* 2817 - [부분수열의합, 조합/재귀](java-project/src/main/java/swe2817.java)
+* 2948 - [문자열 교집합, 해쉬/문자열](java-project/src/main/java/swe2817.java)
+* 2930 - [힙, 우선순위큐(시간초과)](java-project/src/main/java/swe2930.java)
 
 
   </details>
