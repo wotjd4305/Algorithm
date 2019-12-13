@@ -73,6 +73,15 @@ Language: JAVA
 * 2817 - [부분수열의합, 조합/재귀](java-project/src/main/java/swe2817.java)
 * 2948 - [문자열 교집합, 해쉬/문자열](java-project/src/main/java/swe2817.java)
 * 2930 - [힙, 우선순위큐(시간초과)](java-project/src/main/java/swe2930.java)
+* 3131 - [소수, 에스토라체](java-project/src/main/java/swe3131.java)
+* 3142 - [영준이와 신비한 뿔의 숲, 규칙](java-project/src/main/java/swe3142.java)
+* 3233 - [정사각형 분할 놀이, 규칙](java-project/src/main/java/swe3233.java)
+* 3282 - [0/1Knapsack, 순열(dfs)](java-project/src/main/java/swe3282.java)
+* 3260 - [두수의 덧셈, BigDecimal](java-project/src/main/java/swe3260.java)
+* 3304 - [최장공통부분수열, 백트래킹](java-project/src/main/java/swe3304.java)
+* 3307 - [최장증가부분수열, DP](java-project/src/main/java/swe3307.java)
+
 
 
   </details>
+
