@@ -80,6 +80,8 @@ Language: JAVA
 * 3260 - [두수의 덧셈, BigDecimal](java-project/src/main/java/swe3260.java)
 * 3304 - [최장공통부분수열, 백트래킹](java-project/src/main/java/swe3304.java)
 * 3307 - [최장증가부분수열, DP](java-project/src/main/java/swe3307.java)
+* 3431 - [준환이의 운동관리, 규칙](java-project/src/main/java/swe3431.java)
+* 3456 - [직사각형 길이 찾기, 해시](java-project/src/main/java/swe3456.java)
 
 
 
