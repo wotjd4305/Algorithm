@@ -17,7 +17,7 @@ public class swe3456 {
             //초기화
             int N = 3;
             Buffer_Q.clear();
-            Hm.clear();;
+            Hm.clear();
             answer = 0;
 
             //입력

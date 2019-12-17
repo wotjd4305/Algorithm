@@ -82,7 +82,8 @@ Language: JAVA
 * 3307 - [최장증가부분수열, DP](java-project/src/main/java/swe3307.java)
 * 3431 - [준환이의 운동관리, 규칙](java-project/src/main/java/swe3431.java)
 * 3456 - [직사각형 길이 찾기, 해시](java-project/src/main/java/swe3456.java)
-
+* 3499 - [퍼펙트 셔플, 큐/반올림](java-project/src/main/java/swe3499.java)
+* 3750 - [Digit Sum, 문자열/재귀](java-project/src/main/java/swe3499.java)
 
 
   </details>
