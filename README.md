@@ -84,6 +84,7 @@ Language: JAVA
 * 3456 - [직사각형 길이 찾기, 해시](java-project/src/main/java/swe3456.java)
 * 3499 - [퍼펙트 셔플, 큐/반올림](java-project/src/main/java/swe3499.java)
 * 3750 - [Digit Sum, 문자열/재귀](java-project/src/main/java/swe3499.java)
+* 4047 - [영준이의 카드 카운팅, 해쉬/문자열처리](java-project/src/main/java/swe4047.java)
 
 
   </details>
