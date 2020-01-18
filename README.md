@@ -87,6 +87,7 @@ Language: JAVA
 * 4047 - [영준이의 카드 카운팅, 해쉬/문자열처리](java-project/src/main/java/swe4047.java)
 * 4466 - [최대성적표, 배열리스트 정렬](java-project/src/main/java/swe4466.java)
 * 4615 - [재미있는 오셀로 게임, 8방향/재귀?](java-project/src/main/java/swe4615.java)
+* 4789 - [성공적인 공연 기획, 역치](java-project/src/main/java/swe4789.java)
 
 
   </details>
