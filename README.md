@@ -90,7 +90,7 @@ Language: JAVA
 * 4789 - [성공적인 공연 기획, 역치](java-project/src/main/java/swe4789.java)
 * 5162 - [빵빵하게, 규칙](java-project/src/main/java/swe5162.java)
 * 5215 - [햄버거 다이어트, DP](java-project/src/main/java/swe5215.java)
-
+* 5356 - [의석이의 세로로 말해요, 문자열](java-project/src/main/java/swe5356.java)
 
   </details>
 
