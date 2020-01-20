@@ -78,6 +78,7 @@ Language: JAVA
 * 3233 - [정사각형 분할 놀이, 규칙](java-project/src/main/java/swe3233.java)
 * 3282 - [0/1Knapsack, 순열(dfs)](java-project/src/main/java/swe3282.java)
 * 3260 - [두수의 덧셈, BigDecimal](java-project/src/main/java/swe3260.java)
+
 * 3304 - [최장공통부분수열, 백트래킹](java-project/src/main/java/swe3304.java)
 * 3307 - [최장증가부분수열, DP](java-project/src/main/java/swe3307.java)
 * 3431 - [준환이의 운동관리, 규칙](java-project/src/main/java/swe3431.java)
@@ -88,9 +89,12 @@ Language: JAVA
 * 4466 - [최대성적표, 배열리스트 정렬](java-project/src/main/java/swe4466.java)
 * 4615 - [재미있는 오셀로 게임, 8방향/재귀?](java-project/src/main/java/swe4615.java)
 * 4789 - [성공적인 공연 기획, 역치](java-project/src/main/java/swe4789.java)
+
 * 5162 - [빵빵하게, 규칙](java-project/src/main/java/swe5162.java)
 * 5215 - [햄버거 다이어트, DP](java-project/src/main/java/swe5215.java)
 * 5356 - [의석이의 세로로 말해요, 문자열](java-project/src/main/java/swe5356.java)
+* 1859 - [백만장자 프로젝트, 규칙](java-project/src/main/java/swe1859.java)
+
 
   </details>
 
