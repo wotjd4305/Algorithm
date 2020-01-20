@@ -88,6 +88,8 @@ Language: JAVA
 * 4466 - [최대성적표, 배열리스트 정렬](java-project/src/main/java/swe4466.java)
 * 4615 - [재미있는 오셀로 게임, 8방향/재귀?](java-project/src/main/java/swe4615.java)
 * 4789 - [성공적인 공연 기획, 역치](java-project/src/main/java/swe4789.java)
+* 5162 - [빵빵하게, 규칙](java-project/src/main/java/swe5162.java)
+* 5215 - [햄버거 다이어트, DP](java-project/src/main/java/swe5215.java)
 
 
   </details>
