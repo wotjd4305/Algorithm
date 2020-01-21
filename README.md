@@ -97,6 +97,8 @@ Language: JAVA
 * 5986 - [새샘이와 세 소수, 소수/배열리스트](java-project/src/main/java/swe5986.java)
 * 6019 - [기차사이의 파리, double/쉽게 생각하자](java-project/src/main/java/swe6019.java)
 * 6057 - [그래프의 삼각형, double/쉽게 생각하자](java-project/src/main/java/swe6057.java)
+* 6190 - [정곤이의 단조 증가하는 수, long형/](java-project/src/main/java/swe6190.java)
+
 
   </details>
 
