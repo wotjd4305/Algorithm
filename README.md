@@ -94,6 +94,7 @@ Language: JAVA
 * 5215 - [햄버거 다이어트, DP](java-project/src/main/java/swe5215.java)
 * 5356 - [의석이의 세로로 말해요, 문자열](java-project/src/main/java/swe5356.java)
 * 1859 - [백만장자 프로젝트, 규칙](java-project/src/main/java/swe1859.java)
+* 5986 - [새샘이와 세 소수, 소수/배열리스트](java-project/src/main/java/swe5986.java)
 
 
   </details>
