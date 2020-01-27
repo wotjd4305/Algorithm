@@ -36,16 +36,12 @@ public class swe1859 {
     public static long solution(int Num)
 	{
 		long result = 0L;
-		for(int i =0; i<Num-1; i++)
+		int max = 0;
+		for(int i =Num-1; i>=0; i--)
 		{
-			int max = Arr[i];
-			int current = Arr[i];
+			max = Math.max(Arr[i], max);
 
-			for(int j=i+1; j<Num; j++)
-			{
-				max = Math.max(max, Arr[j]);
-			}
-			result += max - current;
+			result += max - Arr[i];
 		}
 
 		return result;

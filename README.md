@@ -24,6 +24,9 @@ Language: JAVA
 * 2740 - [행렬곱셈, 규칙](java-project/src/main/java/bac2740.java)
 * 9012 - [괄호, 스택](java-project/src/main/java/bac9012.java)
 * 9663 - [N-Queen, DFS](java-project/src/main/java/bac9663.java)
+* 2231 - [분해합, 문자열응용](java-project/src/main/java/bac2231_분해합.java)
+* 2798 - [블랙잭, DFS|완탐](java-project/src/main/java/bac2798_blackjack.java)
+* 7568 - [덩치, 규칙](java-project/src/main/java/bac7568_덩치.java)
 
 
 </details>

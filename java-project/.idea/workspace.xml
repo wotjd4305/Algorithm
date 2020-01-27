@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b6e1cdf-943f-454b-b89f-1d3af4722687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swe1859.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swe5162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swe5215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swe5356.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swe5688.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/swe1859.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/swe1859.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/swe5688.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/swe5688.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swe1859.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swe1859.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swe5688.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swe5688.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -60,73 +59,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe4371.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swe5688.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe4466.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swe1213.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="19">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe4615.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swe1210_Hw.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1957">
-              <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+            <state relative-caret-position="513">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe3233.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/이진탐색.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-end-line="36" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe5642.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac2146.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe4698.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe4789.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="28" lean-forward="true" selection-end-line="69" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swe1859.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac2231_분해합.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="114">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac7568_덩치.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bac2798_blackjack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -171,12 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/bac9012.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bac9663.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bac2146.java" />
-        <option value="$PROJECT_DIR$/src/main/java/swe5642.java" />
-        <option value="$PROJECT_DIR$/src/main/java/swe5603.java" />
-        <option value="$PROJECT_DIR$/src/main/java/swe1213.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1215.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1216.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1217.java" />
@@ -222,6 +218,12 @@
         <option value="$PROJECT_DIR$/src/main/java/swe4798.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe4789.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe1859.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swe5688.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swe1210_Hw.java" />
+        <option value="$PROJECT_DIR$/src/main/java/이진탐색.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bac2798_blackjack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bac2231_분해합.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bac7568_덩치.java" />
       </list>
     </option>
   </component>
@@ -232,7 +234,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="762" />
+    <option name="x" value="168" />
+    <option name="y" value="29" />
     <option name="width" value="1161" />
     <option name="height" value="1047" />
   </component>
@@ -291,7 +294,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579512735711" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580110940253" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -300,16 +303,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\temp" />
       <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\main\java" />
       <recent name="C:\Users\Smith\Documents\GitHub\java-project\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,37 +327,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.swe1859">
-    <configuration name="swe1859" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe1859" />
+  <component name="RunManager" selected="Application.bac7568_덩치">
+    <configuration name="이진탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이진탐색" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swe4615" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe4615" />
+    <configuration name="bac2231_분해합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bac2231_분해합" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swe4698" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe4698" />
+    <configuration name="bac2798_blackjack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bac2798_blackjack" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swe4789" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe4789" />
+    <configuration name="bac7568_덩치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bac7568_덩치" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swe5688" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swe5688" />
+    <configuration name="swe1210_Hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swe1210_Hw" />
       <module name="com.algo.java-project.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -362,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.swe1859" />
-        <item itemvalue="Application.swe5688" />
-        <item itemvalue="Application.swe4789" />
-        <item itemvalue="Application.swe4698" />
-        <item itemvalue="Application.swe4615" />
+        <item itemvalue="Application.bac7568_덩치" />
+        <item itemvalue="Application.bac2231_분해합" />
+        <item itemvalue="Application.bac2798_blackjack" />
+        <item itemvalue="Application.이진탐색" />
+        <item itemvalue="Application.swe1210_Hw" />
       </list>
     </recent_temporary>
   </component>
@@ -399,12 +402,17 @@
       <workItem from="1576473181747" duration="4077000" />
       <workItem from="1576565131627" duration="2769000" />
       <workItem from="1578994167413" duration="25376000" />
-      <workItem from="1579478806486" duration="1967000" />
+      <workItem from="1579478806486" duration="7008000" />
+      <workItem from="1579767163103" duration="3377000" />
+      <workItem from="1579770800657" duration="296000" />
+      <workItem from="1579771421395" duration="1959000" />
+      <workItem from="1579773526896" duration="9085000" />
+      <workItem from="1580037270083" duration="7073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205544000" />
+    <option name="totallyTimeSpent" value="232375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,9 +424,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="1161" height="1047" extended-state="0" />
+    <frame x="168" y="29" width="1161" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27520436" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29427794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -427,7 +435,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.44323343" weight="0.30996713" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.44189766" visible="true" weight="0.31106243" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,10 +443,10 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.329849" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49733475" weight="0.3286334" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.55676657" side_tool="true" visible="true" weight="0.30996713" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.55810237" side_tool="true" weight="0.30911064" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49781182" weight="0.32968238" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.46049047" weight="0.3242059" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.45776567" weight="0.3231106" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24945295" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -499,58 +507,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/proCity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe1491.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="8" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp/swe5642.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe1493.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/temp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/temp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe2805.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/temp3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -832,6 +788,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe4789.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe1859.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe5688.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe1213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe1210_Hw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11514">
@@ -846,17 +837,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe4789.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac2798_blackjack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="28" lean-forward="true" selection-end-line="69" />
+        <state relative-caret-position="190">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe1859.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/이진탐색.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac2146.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac7568_덩치.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bac2231_분해합.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
