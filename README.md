@@ -103,6 +103,8 @@ Language: JAVA
 * 6190 - [정곤이의 단조 증가하는 수, long형/](java-project/src/main/java/swe6190.java)
 * 6718 - [희성이의 원근법, long형](java-project/src/main/java/swe6718.java)
 * 2007 - [패턴의 마디길이 찾기, String](java-project/src/main/java/swe2007.java)
+* 1223 - [계산기2(D4), 스택](java-project/src/main/java/swe1223.java)
+
 
 
   </details>
