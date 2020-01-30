@@ -27,7 +27,7 @@ Language: JAVA
 * 2231 - [분해합, 문자열응용](java-project/src/main/java/bac2231_분해합.java)
 * 2798 - [블랙잭, DFS|완탐](java-project/src/main/java/bac2798_blackjack.java)
 * 7568 - [덩치, 규칙](java-project/src/main/java/bac7568_덩치.java)
-
+* 11599 - [뿌요뿌요, 시뮬](java-project/src/main/java/bac11599_덩치.java) //
 
 </details>
 
