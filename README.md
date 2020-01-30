@@ -28,6 +28,7 @@ Language: JAVA
 * 2798 - [블랙잭, DFS|완탐](java-project/src/main/java/bac2798_blackjack.java)
 * 7568 - [덩치, 규칙](java-project/src/main/java/bac7568_덩치.java)
 * 11599 - [뿌요뿌요, 시뮬](java-project/src/main/java/bac11599_덩치.java) // 미제출
+* 14502 - [연구소, DFS|시뮬](java-project/src/main/java/bac14502.java)
 
 </details>
 
