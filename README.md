@@ -27,15 +27,10 @@ Language: JAVA
 * 2231 - [분해합, 문자열응용](java-project/src/main/java/bac2231_분해합.java)
 * 2798 - [블랙잭, DFS|완탐](java-project/src/main/java/bac2798_blackjack.java)
 * 7568 - [덩치, 규칙](java-project/src/main/java/bac7568_덩치.java)
-<<<<<<< HEAD
 * 11559 - [뿌요뿌요, BFS|시뮬](java-project/src/main/java/bac11559.java)
 * 14502 - [연구소, DFS](java-project/src/main/java/bac14502.java)
 * 17136 - [색종이 붙이기, DFS](java-project/src/main/java/bac17136.java)
 
-=======
-* 11599 - [뿌요뿌요, 시뮬](java-project/src/main/java/bac11599_덩치.java) // 미제출
-* 14502 - [연구소, DFS|시뮬](java-project/src/main/java/bac14502.java)
->>>>>>> ff235ca96d55a8b0ea0c647e2fd4f9a5afdb1dc2
 
 </details>
 
@@ -109,12 +104,11 @@ Language: JAVA
 * 5215 - [햄버거 다이어트, DP](java-project/src/main/java/swe5215.java)
 * 5356 - [의석이의 세로로 말해요, 문자열](java-project/src/main/java/swe5356.java)
 * 1859 - [백만장자 프로젝트, 규칙](java-project/src/main/java/swe1859.java)
-* 5986 - [새샘이와 세 소수, 소수/배열리스트](java-project/src/main/java/swe5986.java) //
+* 5986 - [새샘이와 세 소수, 소수/배열리스트](java-project/src/main/java/swe5986.java)
 * 6019 - [기차사이의 파리, double/쉽게 생각하자](java-project/src/main/java/swe6019.java)
 * 6057 - [그래프의 삼각형, double/쉽게 생각하자](java-project/src/main/java/swe6057.java)
 * 6190 - [정곤이의 단조 증가하는 수, long형/](java-project/src/main/java/swe6190.java)
 * 6718 - [희성이의 원근법, long형](java-project/src/main/java/swe6718.java)
-<<<<<<< HEAD
 * 1494 - [사랑의 카운슬러, 조합](java-project/src/main/java/swe1494.java)
 
 
@@ -129,13 +123,7 @@ Language: JAVA
 * 1223 - [계산기2, 스택](java-project/src/main/java/swe1223.java)
 * 2007 - [패턴 마디의 길이, 규칙](java-project/src/main/java/swe2007.java)
 
-
 * 1210 - [Ladder1, 규칙|4방향](java-project/src/main/java/swe1210.java)
-=======
-* 2007 - [패턴의 마디길이 찾기, String](java-project/src/main/java/swe2007.java)
-* 1223 - [계산기2(D4), 스택](java-project/src/main/java/swe1223.java)
-
->>>>>>> ff235ca96d55a8b0ea0c647e2fd4f9a5afdb1dc2
 
 
   </details>
