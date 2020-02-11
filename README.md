@@ -102,6 +102,7 @@ Language: JAVA
 * 6057 - [그래프의 삼각형, double/쉽게 생각하자](java-project/src/main/java/swe6057.java)
 * 6190 - [정곤이의 단조 증가하는 수, long형/](java-project/src/main/java/swe6190.java)
 * 6718 - [희성이의 원근법, long형](java-project/src/main/java/swe6718.java)
+* 1494 - [사랑의 카운슬러, 조합](java-project/src/main/java/swe1494.java)
 
 
   </details>
