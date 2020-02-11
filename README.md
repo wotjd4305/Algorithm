@@ -20,7 +20,8 @@ Language: JAVA
 <details>
     <summary>백준</summary>
 
-​* 1158 - [조세퍼드, 순열](java-project/src/main/java/bac1158.java)
+​
+* 1158 - [조세퍼드, 순열](java-project/src/main/java/bac1158.java)
 * 2740 - [행렬곱셈, 규칙](java-project/src/main/java/bac2740.java)
 * 9012 - [괄호, 스택](java-project/src/main/java/bac9012.java)
 * 9663 - [N-Queen, DFS](java-project/src/main/java/bac9663.java)
@@ -47,6 +48,9 @@ Language: JAVA
 * 43104 - [타일 장식물, DP](java-project/src/main/java/proDP1.java)
 * 43105 - [정수 삼각형, DP](java-project/src/main/java/proDP2.java)
 * 42898 - [등굣길, DP](java-project/src/main/java/proDP3.java)
+
+---
+
 * skill2 - [아스키코드, split](java-project/src/main/java/proString1.java)
 * skill3 - [회사원 누적, 우선순위큐](java-project/src/main/java/proPriorityQueue.java)
 * skill3 - [도시, DP](java-project/src/main/java/proCity.java)
@@ -74,7 +78,8 @@ Language: JAVA
 * 1491 - [원재의 벽꾸미기, Long형/규칙](java-project/src/main/java/swe1491.java)
 * 1493 - [새로운 수 연산, 클래스/규칙(시간초과)](java-project/src/main/java/swe1493.java)
 * 1860 - [진기의 최고급 붕어빵, 해쉬/규칙](java-project/src/main/java/swe1860.java)
-​---
+
+---
 
 * 2806 - [N-Queen, DFS/1중배열을 2중처럼](java-project/src/main/java/swe2806.java)
 * 2805 - [농작물, 규칙](java-project/src/main/java/swe2805.java)
@@ -87,6 +92,7 @@ Language: JAVA
 * 3282 - [0/1Knapsack, 순열(dfs)](java-project/src/main/java/swe3282.java)
 * 3260 - [두수의 덧셈, BigDecimal](java-project/src/main/java/swe3260.java)
 
+---
 
 * 3304 - [최장공통부분수열, 백트래킹](java-project/src/main/java/swe3304.java)
 * 3307 - [최장증가부분수열, DP](java-project/src/main/java/swe3307.java)
@@ -99,6 +105,7 @@ Language: JAVA
 * 4615 - [재미있는 오셀로 게임, 8방향/재귀?](java-project/src/main/java/swe4615.java)
 * 4789 - [성공적인 공연 기획, 역치](java-project/src/main/java/swe4789.java)
 
+---
 
 * 5162 - [빵빵하게, 규칙](java-project/src/main/java/swe5162.java)
 * 5215 - [햄버거 다이어트, DP](java-project/src/main/java/swe5215.java)
@@ -111,6 +118,7 @@ Language: JAVA
 * 6718 - [희성이의 원근법, long형](java-project/src/main/java/swe6718.java)
 * 1494 - [사랑의 카운슬러, 조합](java-project/src/main/java/swe1494.java)
 
+---
 
 * 2382 - [미생물 격리, BFS|시뮬](java-project/src/main/java/swe2382.java)
 * 1258 - [사랑의 카운슬러, 조합](java-project/src/main/java/swe1258.java)
@@ -122,6 +130,8 @@ Language: JAVA
 * 1209 - [SUM, 조합](java-project/src/main/java/swe1209.java)
 * 1223 - [계산기2, 스택](java-project/src/main/java/swe1223.java)
 * 2007 - [패턴 마디의 길이, 규칙](java-project/src/main/java/swe2007.java)
+
+---
 
 * 1210 - [Ladder1, 규칙|4방향](java-project/src/main/java/swe1210.java)
 
