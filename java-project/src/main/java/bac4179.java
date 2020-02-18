@@ -1,4 +1,4 @@
-package study;
+package java;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,17 +6,18 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Point {
-	int x;
-	int y;
 
-	public Point(int x, int y) {
-		this.x = x;
-		this.y = y;
-	}
-}
 
 public class bac4179 {
+	public static class Point {
+		int x;
+		int y;
+
+		public Point(int x, int y) {
+			this.x = x;
+			this.y = y;
+		}
+	}
 
 	static Scanner sc = new Scanner(System.in);
 
