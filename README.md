@@ -35,7 +35,6 @@ Language: JAVA
 
 ---
 
-* 17136 - [색종이 붙이기, DFS](java-project/src/main/java/bac17136.java)
 * 17471 - [개리맨더링, BFS|조합](java-project/src/main/java/bac17471_개리맨더링.java)
 * 17143 - [낚시왕, 규칙|시뮬](java-project/src/main/java/bac17143_낚시왕.java)
 * 17070 - [파이프옮기기, DFS](java-project/src/main/java/bac17070_파이프옮기기1.java)
