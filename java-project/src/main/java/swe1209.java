@@ -1,61 +1,128 @@
+package study;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class swe1209 {
-    static Scanner sc = new Scanner(System.in);
+	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-    public static void main(String[] args) {
+	// 선언
+	static int answer;
+	static int N;
+	static int arr[][];
+	static boolean visited[][];
+	static int[] dp;// 해쉬맵으로 하려다가 자연수가 100까지밖에없다고해서..
+	static int first_x;
+	static int first_y;
+	static int last_x;
+	static int last_y;
+	static int pos_x, pos_y;
+	
+	// 북동 동남 남서 서북, 시계방향
+	static int dx[] = { 0, 1, 1, -1, -1 };
+	static int dy[] = { 0, -1, 1, 1, -1 };
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		int T = Integer.parseInt(br.readLine());
+		for (int testcase = 1; testcase <= T; testcase++) {
+			init();
+			solution();
+			System.out.println("#" + (testcase) + " " + answer);
+		}
+	}
+	public static void solution() {
+		for (int i = 1; i <= N; i++) {
+			for (int j = 1; j <= N; j++) {
+				first_x = i;
+				first_y = j;
+				visited[i][j] = true;
+				dp[arr[i][j]] = 1;
+				dfs(i, j, 0, 0, 1, 0, 0);// x y count cur_dir next_dir flag
+				dp[arr[i][j]] = 0;
+				visited[i][j] = false;
+			}
+		}
+	}
+	public static boolean isEnd(boolean[] flag_4) {
+		boolean result = true;
+		for (int i = 1; i <= 4; i++)
+			if (!flag_4[i])
+				result = false;
+		return result;
+	}
 
+	public static boolean isDuplicated(int cur_x, int cur_y) {
+		boolean result = false;
+		if (dp[arr[cur_x][cur_y]] > 0)
+			result = true;
+		return result;
+	}
 
-        int arr[][] = new int[100][100];
-        int answer= 0;
-        int sum = 0;
+	public static void dfs(int cur_x, int cur_y, int count, int cur_dir, int next_dir, int posx, int posy) {
+		dp[arr[cur_x][cur_y]]++;
+		// 종료문
+		if (next_dir == 4) {
+			if ((cur_x == first_x && cur_y == first_y)) {
+				if (answer < count) {
+					answer = count;
+					pos_x = posx;
+					pos_y = posy;
+					last_x = first_x;
+					last_y = first_y;
+				}
+				answer = Math.max(answer, count);
+				return;
+			}
+		}
+		int new_x = cur_x + dy[next_dir];
+		int new_y = cur_y + dx[next_dir];
+		// 범위니
+		if (new_x >= 1 && new_x <= N && new_y >= 1 && new_y <= N) {
+			if ((!isDuplicated(new_x, new_y) && !visited[new_x][new_y])
+					|| (new_x == first_x && new_y == first_y)) {
+				dfs(new_x, new_y, count + 1, next_dir, next_dir, posx, posy);
+				if (next_dir != 4) {
+					dfs(new_x, new_y, count + 1, next_dir, next_dir + 1, new_x, new_y);
+				}
+			}
+		}
+		dp[arr[cur_x][cur_y]] = 0;
+	}
 
-        for (int testcase = 0; testcase < 10; testcase++) {
-            int T = sc.nextInt();
-            answer = 0;
+	public static void init() throws IOException {
 
-            //입력과 초기화
-            for(int i =0; i<100; i++) {
-                for(int j = 0; j<100; j++) {
-                    arr[i][j] = sc.nextInt();
-                }
-            }
+		// 선언과 초기화
+		answer = -1;
+		N = Integer.parseInt(br.readLine());
+		arr = new int[N + 1][N + 1];
+		dp = new int[101];
+		visited = new boolean[N + 1][N + 1];
+		// 출력
+		for (int i = 1; i <= N; i++) {
+			String row_t[] = br.readLine().split(" ");
+			for (int j = 0; j < N; j++) {
+				arr[i][j + 1] = Integer.parseInt(row_t[j]);
+			}
+		}
+	}
 
-            //행
-            for(int i =0; i<100; i++) {
-                sum = 0;
-                for(int j =0; j<100; j++) {
-                    sum += arr[i][j];
-                }
-                answer = Math.max(answer, sum);
-            }
-
-            //열
-            for(int i=0; i<100; i++) {
-                sum = 0;
-                for(int j =0; j<100; j++) {
-                    sum += arr[j][i];
-                }
-                answer = Math.max(answer, sum);
-            }
-
-            //좌상 - 우하 대각선
-            sum =0;
-            for(int i =0; i<100; i++) {
-                sum +=arr[i][i];
-            }
-            answer = Math.max(answer, sum);
-
-            //우상 - 좌하 대각선
-            sum =0;
-            for(int i =0; i<100; i++) {
-                sum +=arr[i][99-i];
-            }
-            answer = Math.max(answer, sum);
-
-            System.out.println("#" + (testcase+1) + " " +answer);
-
-        }
-    }
-
+	public static void dprint() {
+		for (int i = 1; i <= 100; i++) {
+			System.out.print(dp[i] + " ");
+			if (i % 20 == 0)
+				System.out.println();
+		}
+		System.out.println();
+	}
+}
+class Point {
+	int x;
+	int y;
+	Point(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
 }

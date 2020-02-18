@@ -1,3 +1,5 @@
+package study;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -17,11 +19,10 @@ public class bac17136 {
 	static Scanner sc = new Scanner(System.in);
 	static ArrayList<Point> AL = new ArrayList<>();
 
-	static int answer = 0;
+	static int answer = Integer.MAX_VALUE;
+	static int count_1 = 0;
 	static boolean[][] visited;
-	static boolean[] idx_visited;
 	static int[][] arr;
-
 	static int count[] = new int[6];
 
 	// 색종이는 10x10, 색종이 종류는 N*N 5장씩(N =1,2,3,4,5)
@@ -31,38 +32,23 @@ public class bac17136 {
 		for (int t = 0; t < 1; t++) {
 
 			// 초기화
-			answer = 0;
+			answer = Integer.MAX_VALUE;
 			arr = new int[10][10];
 			visited = new boolean[10][10];
 			make_arr();
-			idx_visited = new boolean[AL.size()];	
 			Arrays.fill(count, 0);
 
 			// 솔루션
 			solution();
-
-			// 전부다 커버되면 true 아니면 false
-			if (!is_covered())
+			if(answer == Integer.MAX_VALUE)
 				answer = -1;
-			else {
-				for (int i : count) {
-					answer += i;
-				}
-			}
-
 			System.out.println(answer);
 		}
 
 	}
 
 	public static void solution() {
-		//
-		int size = count.length - 1;
-		for (int i = 0; i < AL.size(); i++) {
-			idx_visited[i] = true;
-			dfs(size, i);
-			idx_visited[i] = false;
-		}
+		dfs(0, 0, 0);	
 	}
 
 	public static void pprint() {
@@ -77,59 +63,41 @@ public class bac17136 {
 	// i = 0~(10-size) j = 0~(10-size)
 	// 10*10
 	//
-	public static void dfs(int size, int idx) {
+	public static void dfs(int total, int cnt, int idx) {
 
-		if (size == 0 || is_covered() || is_ended()) {
-			int result = 0;
-			for (int i : count) {
-				result += i;
-			}
-			if (is_covered())
-				System.out.println("Covered - END -- " + result);
-			else
-				System.out.println("No - END -- " + result);
-
+		if (answer <= cnt) {
+			System.out.println("가지치기!");
+			return;
+		}
+		if (total == count_1 && is_covered()) {
+			answer = Math.min(answer, cnt);
+			System.out.println("Success End!!");
 			return;
 		}
 
-		int cur_x = AL.get(idx).x;
-		int cur_y = AL.get(idx).y;
-		int btn = 0;
+		for (int i = idx; i < AL.size(); i++) {
+			boolean btn = false;
+			for (int k = 5; k >= 1; k--) {
+				// 덮을 수 있으면서 그 색종이를 다쓰지 않았을 경우
+				int new_x = AL.get(i).x + k;
+				int new_y = AL.get(i).y + k;
 
-		for (int i = cur_x; i < (cur_x + size); i++) {
-			for (int j = cur_x; j < (cur_y + size); j++) {
-				if (i < 10 && j < 10) {
-					if (visited[i][j]) {
-						btn = 1;
-						break;
+				if (new_x < 10 && new_y < 10 && count[k] != 5) {
+					if (!btn) {
+						btn = is_cover(AL.get(i).x, AL.get(i).y, k);
 					}
-				} else {
-					btn = 1;
-					break;
+					if (btn) {
+						cover(AL.get(i).x, AL.get(i).y, k);
+						dfs(total + k * k, cnt + 1, i);
+						uncover(AL.get(i).x, AL.get(i).y, k);
+					}
 				}
 			}
-			if (btn == 1)
-				break;
+			//
+			//
 		}
-
-		if (btn == 0 && count[size] != 5) {
-			for (int i = 0; i < AL.size(); i++) {
-				if (idx == i)
-					continue;
-				cover(cur_x, cur_y, size);
-				if (!visited[AL.get(i).x][AL.get(i).x] && !idx_visited[i]) {
-					idx_visited[i] = true;
-					System.out.println(AL.get(i).x + " ---- " + AL.get(i).y);
-					dfs(size, i);
-					idx_visited[i] = false;
-				}
-				uncover(cur_x, cur_y, size);
-			}
-		} 
-		else {
-					dfs(size - 1, idx);
-		}
-
+		
+		
 	}
 
 	// 배열 만들고 큐에 추가!
@@ -139,27 +107,31 @@ public class bac17136 {
 				int buffer = sc.nextInt();
 				if (buffer == 1) {
 					AL.add(new Point(i, j));
+					count_1++;
 				}
 				arr[i][j] = buffer;
 			}
 		}
 	}
+	
+	// 배열리스트를 이용
+		public static boolean is_covered() {
+			boolean result = true;
+			for(Point p : AL)
+				if(!visited[p.x][p.y])
+					result = false;
+			return result;
+		}
+	
 
 	// 배열리스트를 이용
-
-	public static boolean is_covered() {
-		for (Point p : AL) {
-			if (!visited[p.x][p.y]) {
-				return false;
-			}
-		}
-		return true;
-	}
-	
-	public static boolean is_ended() {
-		for (boolean b : idx_visited) {
-			if (!b) {
-				return false;
+	public static boolean is_cover(int p_x, int p_y, int size) {
+		for (int i = p_x; i < 10 && i < (p_x + size); i++) {
+			for (int j = p_y; j < 10 && j < (p_y + size); j++) {
+				if (visited[i][j]) {
+					//System.out.println(visited[i][j]);
+					return false;
+				}
 			}
 		}
 		return true;
