@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b6e1cdf-943f-454b-b89f-1d3af4722687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/bac17143.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bac4179.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bac4179.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swe1209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swe1209.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swe2105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swe2105.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swe7234.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -63,47 +58,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/Product.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductMgrlmpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/ProductMgrlmpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-418">
-              <caret line="67" column="16" lean-forward="true" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+            <state relative-caret-position="836">
+              <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/ProductTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/Temp/bac17825_주사위_윷놀이_G3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Temp/bac15684_사다리조작_G5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-665">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="22" selection-end-column="43" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Temp/Solution_SWEA_1244_최대상금_D3_박재성.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-596">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-152">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -111,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/IO9TelBookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1235">
+            <state relative-caret-position="76">
               <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
@@ -120,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Refrigerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="342">
               <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
@@ -135,11 +123,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Product.dat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swe/Solution_SWEA_1244_최대상금_D3_박재성.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swe/Solution_SWEA_1244_최대상금_D3_박재성.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -167,8 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/swe3307.java" />
-        <option value="$PROJECT_DIR$/src/main/java/swe3431.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe3456.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe3499.java" />
         <option value="$PROJECT_DIR$/src/main/java/swe3750.java" />
@@ -218,6 +222,8 @@
         <option value="$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/TV.java" />
         <option value="$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Refrigerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductMgrlmpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swe/Solution_SWEA_1244_최대상금_D3_박재성.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Temp/bac17825_주사위_윷놀이_G3.java" />
       </list>
     </option>
   </component>
@@ -232,10 +238,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1161" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="574" />
+    <option name="y" value="30" />
+    <option name="width" value="1066" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,8 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,7 +281,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="WorkShop_M2_java09" type="462c0819:PsiDirectoryNode" />
+              <item name="swe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
@@ -285,34 +289,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="WorkShop_M2_java09" type="462c0819:PsiDirectoryNode" />
-              <item name="IO7ObjectInOut.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Temp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="WorkShop_M2_java09" type="462c0819:PsiDirectoryNode" />
-              <item name="IO9TelBookTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="swe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="WorkShop_M2_java09" type="462c0819:PsiDirectoryNode" />
-              <item name="ProductMgrlmpl.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="swe1209.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="java-project" type="b2602c69:ProjectViewProjectNode" />
@@ -323,12 +312,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582029027512" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582277570712" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -337,16 +328,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\main\java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\main\java" />
       <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\temp" />
       <recent name="C:\Users\Smith\Documents\GitHub\java-project\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Smith\Documents\GitHub\Algorithm\java-project\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -361,13 +352,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProductTest">
+  <component name="RunManager" selected="Application.bac17825_주사위_윷놀이_G3">
     <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WorkShop_M2_java09.ProductTest" />
       <module name="com.algo.java-project.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WorkShop_M2_java09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_SWEA_1244_최대상금_D3_박재성" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swe.Solution_SWEA_1244_최대상금_D3_박재성" />
+      <module name="com.algo.java-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,16 +386,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bac2231_분해합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bac2231_분해합" />
+    <configuration name="bac17825_주사위_윷놀이_G3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp.bac17825_주사위_윷놀이_G3" />
       <module name="com.algo.java-project.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bac7568_덩치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bac7568_덩치" />
-      <module name="com.algo.java-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -405,11 +408,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bac17825_주사위_윷놀이_G3" />
+        <item itemvalue="Application.Solution_SWEA_1244_최대상금_D3_박재성" />
         <item itemvalue="Application.ProductTest" />
         <item itemvalue="Application.bac17143" />
         <item itemvalue="Application.swe1494" />
-        <item itemvalue="Application.bac7568_덩치" />
-        <item itemvalue="Application.bac2231_분해합" />
       </list>
     </recent_temporary>
   </component>
@@ -452,11 +455,12 @@
       <workItem from="1581664715927" duration="23096000" />
       <workItem from="1581857337609" duration="1084000" />
       <workItem from="1582026110516" duration="2915000" />
+      <workItem from="1582112458397" duration="6495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265134000" />
+    <option name="totallyTimeSpent" value="271629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,9 +472,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="574" y="30" width="1066" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3499006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -479,7 +484,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.44189766" weight="0.31453362" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.44189766" visible="true" weight="0.31763417" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.39868566" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -497,7 +502,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32932165" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.018123668" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.033797216" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Database" order="9" weight="0.32932165" />
@@ -573,35 +578,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe3750.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe4522.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe4047.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="58" column="5" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe4371.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swe4466.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/swe4615.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1957">
@@ -873,20 +849,41 @@
     <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/Product.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-596">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="437">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductMgrlmpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/ProductMgrlmpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="67" column="16" lean-forward="true" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/IO9TelBookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Refrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -897,38 +894,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Refrigerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/IO9TelBookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1235">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WorkShop_M2_java09/ProductMgrlmpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Product.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swe/Solution_SWEA_1244_최대상금_D3_박재성.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swe/Solution_SWEA_1244_최대상금_D3_박재성.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WorkShop_M2_java09/ProductMgrlmpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Temp/Solution_SWEA_1244_최대상금_D3_박재성.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Temp/bac17825_주사위_윷놀이_G3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Temp/bac15684_사다리조작_G5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="22" selection-end-column="43" />
         </state>
       </provider>
     </entry>
