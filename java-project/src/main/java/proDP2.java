@@ -1,3 +1,5 @@
+package main.java;
+
 public class proDP2 {
 
     public static void main(String[] args) {

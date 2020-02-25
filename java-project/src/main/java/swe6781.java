@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -52,7 +54,7 @@ public class swe6781 {
 		int idx = 0;
 		Make_Arr();
 
-		// °¹¼ö ¼¼°í, Queue¿¡ ³Ö±â
+		// ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, Queueï¿½ï¿½ ï¿½Ö±ï¿½
 		for (String str : arr_cols) {
 			if (str.equals("R")) {
 				R_AL.add(Integer.parseInt(arr_nums[idx++]));
@@ -68,11 +70,11 @@ public class swe6781 {
 			}
 		}
 
-		// 1)R G B °¹¼ö°¡ 3ÀÇ ¹è¼ö°¡ ¾Æ´Ï¸é
+		// 1)R G B ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 3ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ´Ï¸ï¿½
 		if (!(R_count % 3 == 0 && G_count % 3 == 0 && B_count % 3 == 0))
 			return result;
 
-		// 2)¿À¸§Â÷¼ø Á¤·Ä
+		// 2)ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		Collections.sort(R_AL);
 		Collections.sort(G_AL);
 		Collections.sort(B_AL);
@@ -125,7 +127,7 @@ public class swe6781 {
 
 		// System.out.println();
 
-		// 5)°á·Ð ³»±â. ÀüºÎ´Ù true¿©¾ß true Ç¥Ãâ
+		// 5)ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½. ï¿½ï¿½ï¿½Î´ï¿½ trueï¿½ï¿½ï¿½ï¿½ true Ç¥ï¿½ï¿½
 		if (Make_Des(R_count, R_visited) && Make_Des(G_count, G_visited) && Make_Des(B_count, B_visited))
 			result = true;
 

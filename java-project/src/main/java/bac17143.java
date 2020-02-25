@@ -1,5 +1,4 @@
-
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
+package main.java;
 
 import java.io.BufferedReader;
 import java.io.IOException;

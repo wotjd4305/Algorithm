@@ -1,4 +1,4 @@
-package java;
+package main.java;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -117,12 +117,13 @@ public class swe1209 {
 		}
 		System.out.println();
 	}
-}
-class Point {
-	int x;
-	int y;
-	Point(int x, int y) {
-		this.x = x;
-		this.y = y;
+
+	static class Point {
+		int x;
+		int y;
+		Point(int x, int y) {
+			this.x = x;
+			this.y = y;
+		}
 	}
 }

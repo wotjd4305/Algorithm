@@ -1,3 +1,5 @@
+package main.java;
+
 public class proDFS2 {
     static boolean value[][];
     static int answer =0;

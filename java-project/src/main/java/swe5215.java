@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -16,10 +18,10 @@ public class swe5215 {
 
         int T = sc.nextInt();
 
-        //Å×½ºÆ®ÄÉÀÌ½º
+        //ï¿½×½ï¿½Æ®ï¿½ï¿½ï¿½Ì½ï¿½
         for(int t=0; t<T; t++) {
 
-        	//ÃÊ±âÈ­
+        	//ï¿½Ê±ï¿½È­
         	answer =0;
         	N = sc.nextInt();
         	L = sc.nextInt();

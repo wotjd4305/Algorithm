@@ -1,3 +1,5 @@
+package main.java;
+
 public class proDFS1 {
         static int plusAndMinus[] = {1, -1};
         static int answer = 0;

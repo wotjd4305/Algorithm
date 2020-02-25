@@ -1,4 +1,4 @@
-package WorkShop_M2_java09;
+package main.java.WorkShop_M2_java09;
 public class TV extends Product {
 	
 	private String p_inch;

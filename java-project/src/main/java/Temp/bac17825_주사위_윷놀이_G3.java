@@ -1,4 +1,4 @@
-package Temp;
+package main.java.Temp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -22,13 +22,11 @@ public class bac17825_주사위_윷놀이_G3 {
 
     }
     public static void solution(){
-        makeGraph();
+        //makeGraph();
 
     }
 
-    public static class makeGraph(){
 
-    }
 
     public static class edge{
         int src;

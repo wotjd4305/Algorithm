@@ -1,3 +1,5 @@
+package main.java;
+
 public class proString1 {
 
     public static String solution(String s) {

@@ -1,4 +1,4 @@
-package swe;
+package main.java.swe;
 
 import java.util.*;
 

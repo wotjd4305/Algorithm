@@ -1,3 +1,5 @@
+package main.java;
+
 public class proBinary2 {
     public static void main(String[] args) {
 

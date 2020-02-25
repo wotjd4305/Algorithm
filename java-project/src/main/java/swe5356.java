@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -11,7 +13,7 @@ public class swe5356 {
     	String answer = "";
         int T = sc.nextInt();
 
-        //ев╫╨ф╝диюл╫╨
+        //О©╫в╫О©╫ф╝О©╫О©╫О©╫л╫О©╫
         for(int t=0; t<T; t++) {
         	
         	Arrays.fill(StrArr, "");

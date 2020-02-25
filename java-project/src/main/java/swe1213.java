@@ -1,3 +1,5 @@
+package main.java;
+
 import java.util.*;
 public class swe1213 {
     static Scanner sc  = new Scanner(System.in);
