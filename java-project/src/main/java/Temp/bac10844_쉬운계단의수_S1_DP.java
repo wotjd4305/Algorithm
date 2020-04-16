@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class bac10844_쉬운계단의수_DP {
+public class bac10844_쉬운계단의수_S1_DP {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 	static final long Div = 1000000000;
