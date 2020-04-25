@@ -67,14 +67,12 @@ public class bac16234_인구이동_G5 {
 			isUpdate = false;
 
 			//다시방문.
-			for(boolean[] row : visit){
-					Arrays.fill(row, false);
-			}
+			visit = new boolean[N][N];
 
 			//모든 정점을돌아
 			for(int i=0; i<N; i++){
 				for(int j=0; j<N; j++){
-					if(!visit[i][j] && isRange(i,j)){
+					if(!visit[i][j]){
 						int sum = 0;
 						int cnt = 0;
 
