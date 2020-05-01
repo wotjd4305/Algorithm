@@ -34,7 +34,7 @@ public class bac12100_2048_G2_dfs {
         for(int i=0; i<N; i++){
             st = new StringTokenizer(br.readLine());
             for(int j =0; j<N; j++){
-                   Arr[i][j] = Integer.parseInt(st.nextToken());
+                Arr[i][j] = Integer.parseInt(st.nextToken());
             }
         }
 
