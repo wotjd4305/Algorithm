@@ -13,7 +13,6 @@ public class bac2146_다리만들기_G3 {
 
     static int map[][];
     static boolean visited[][];
-    static Point Dummy = new Point(-1,-1,-1);
 
     //상 하 좌 우
     static int dx[] = {-1,1,0,0};
@@ -40,6 +39,7 @@ public class bac2146_다리만들기_G3 {
         //섬에 번호주기
         giveNumber();
         pprint();
+
 
         boolean flag;
         for( Point p : Al){
