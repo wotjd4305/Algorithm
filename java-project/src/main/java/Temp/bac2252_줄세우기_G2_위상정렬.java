@@ -8,10 +8,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class bac2252_줄세우기_G2 {
+public class bac2252_줄세우기_G2_위상정렬 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static int N;
 	static int M;
+	static int cnt;
 
 	static ArrayList<Integer> AL[];//전출되는 대상
 	static int arr[];//진입 차수
@@ -24,24 +25,28 @@ public class bac2252_줄세우기_G2 {
 		StringTokenizer st = new StringTokenizer(br.readLine());
 
 		//N, M
-		N = Integer.parseInt(st.nextToken());
-		M = Integer.parseInt(st.nextToken());
-		AL = new ArrayList[N+1];
-		arr = new int[N+1];
+		int T = Integer.parseInt(br.readLine());
+		for(int t=0; t<T; t++) {
+			cnt = 0;
+			N = Integer.parseInt(st.nextToken());
+			M = Integer.parseInt(st.nextToken());
+			AL = new ArrayList[N + 1];
+			arr = new int[N + 1];
 
-		for(int i=0; i<M; i++){
-			st = new StringTokenizer(br.readLine());
-			int big_one = Integer.parseInt(st.nextToken());
-			int small_one = Integer.parseInt(st.nextToken());
-			if(AL[big_one] == null){
-				AL[big_one] = new ArrayList<>();
+			for (int i = 0; i < M; i++) {
+				st = new StringTokenizer(br.readLine());
+				int small_one = Integer.parseInt(st.nextToken());
+				int big_one = Integer.parseInt(st.nextToken());
+				if (AL[big_one] == null) {
+					AL[big_one] = new ArrayList<>();
+				}
+				AL[big_one].add(small_one);
+				arr[small_one]++;
 			}
-			AL[big_one].add(small_one);
-			arr[small_one]++;
-		}
 
-		solution();
-		System.out.println(sb.toString());
+			solution();
+			System.out.println("#"+T + " " + sb.toString());
+		}
 	}
 
 	private static void solution() {
