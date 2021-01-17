@@ -4,13 +4,10 @@ package 자료구조;
 그래프 상에서 최소 비용으로 모든 정점을 방문하는 방법.
       ※ 비용이 가장 적은 순서대로 선택 → 선택된 간선이 Cycle을 형성하면 제외.*/
 
-import Algo.src.Z31_쿠르스칼_교수님;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.StringTokenizer;
 
 

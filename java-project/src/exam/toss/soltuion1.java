@@ -1,12 +1,8 @@
 package exam.toss;
 
-import main.java.bac3055_탈출_G5_BFS;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.StringTokenizer;
 
 public class soltuion1 {
     public static void main(String[] args) throws IOException {
