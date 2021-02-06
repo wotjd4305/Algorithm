@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="C:/study-2021/2021-Java-Study/test" rootProjectPath="C:/study-2021/2021-Java-Study/test" />
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/bin" />
     <exclude-output />
