@@ -57,7 +57,7 @@ public class bac_토마토_S1_BFS {
     public static void solution(){
         Queue<Point> qu = new LinkedList<>();
         fillQue(qu);
-
+//
 //        for(Point p : qu){
 //            System.out.println(p);
 //        }
