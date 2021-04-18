@@ -1,11 +1,11 @@
-package main.java.Temp3;
+package main.java.Temp4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class bac_최소스패닝_G4 {
+public class bac_최소스패닝_G4_크루스칼 {
 
     static int answer;
     static int V;

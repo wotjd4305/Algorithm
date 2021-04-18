@@ -1,11 +1,11 @@
-package main.java.Temp3;
+package main.java.Temp4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class bac_MST게임_G4 {
+public class bac_MST게임_G4_prim {
 
     static int N,M,K;
     static int value[];

@@ -30,6 +30,7 @@ public class 이진탐색 {
 				start = mid + 1;
 			}
 		}
+
 		return result;
 	}
 }
